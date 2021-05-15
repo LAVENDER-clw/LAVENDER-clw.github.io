@@ -1,4 +1,5 @@
-## Welcome to GitHub Pagesthis is a happy place for me
+## Welcome to GitHub Pagesthis 
+it is a happy place for me
 
 ### Markdown
 
@@ -7,12 +8,7 @@
 # who am i 
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+For me a student from south china unniversity of technology ,creating my own blog is a new area . I will pour attention into learning and summrazing English knowledges and I hope i can inprove my ability.
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
